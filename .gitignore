@@ -34,3 +34,9 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# Mac DS Store
+.DS_Store
+
+# License Resource
+/[Aa]ssets/[Rr]esources/
